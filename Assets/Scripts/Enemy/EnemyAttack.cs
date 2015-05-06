@@ -10,7 +10,7 @@ public class EnemyAttack : MonoBehaviour
     Animator anim;
     GameObject player;
     PlayerHealth playerHealth;
-    //EnemyHealth enemyHealth;
+    //EnemyHealth enemyHealth; 
     bool playerInRange;
     float timer;
 
